@@ -19,6 +19,11 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+Depois de tudo instalado, basta executar o seguinte comando no terminal:
+
+```terminal 
+streamlit run top100.py
+```
 
 >OBS: Dependendo da IDE que está sendo utilizada, será necessário inicializar o 'streamlit' manualmente pelo terminal da IDE substituindo o que está entre aspas `"D:\Biblioteca\Documentos\Paulo_Documentos"` pelo caminho que você salvou seu projeto:
 ```terminal
