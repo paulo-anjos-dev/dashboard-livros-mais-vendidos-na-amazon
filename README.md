@@ -4,18 +4,10 @@ Esse projeto cria exibe de maneira bem dinâmica uma lista com os 100 livros mai
 Na pasta [data_set](./data_set/) estão armazenados os dados que foram analisados neste projeto, eles estão disponíveis no site da [Kaggle](https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews).
 
 
-Para este projeto é necessário fazer as importações das bibliotecas: 'pandas', 'streamlit' e 'plotly' que podem fácilmente serem instaladas pelo cmd através dos comandos:
+Para este projeto é necessário fazer as importações das bibliotecas: 'pandas', 'streamlit' e 'plotly' que podem fácilmente serem instaladas pelo terminal através do comando:
 
 ```terminal
-pip install pandas
-```
-
-```terminal
-pip install streamlit
-```
-
-```terminal
-pip install plotly
+pip install -r requirements.txt
 ```
 
 
