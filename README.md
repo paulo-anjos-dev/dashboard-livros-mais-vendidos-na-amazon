@@ -7,6 +7,15 @@ Na pasta [data_set](./data_set/) estão armazenados os dados que foram analisado
 Para este projeto é necessário fazer as importações das bibliotecas: 'pandas', 'streamlit' e 'plotly' que podem fácilmente serem instaladas pelo terminal através do comando:
 
 ```terminal
+# Crie um ambiente virtual
+python -m venv venv
+
+# Ative no Windows
+venv\Scripts\activate
+
+# Ative no Linux ou Mac "source venv/bin/activate"
+
+# Instale as dependências
 pip install -r requirements.txt
 ```
 
